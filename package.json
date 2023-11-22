@@ -4,13 +4,13 @@
     "react-dom": "^18.0.0",
     "react-scripts": "^5.0.0"
   },
-  "homepage": "http://cjkamada.github.io/reactHw",
+  "homepage": "https://cjkamada.github.io/reactHw/",
   "main": "/index.js",
   "devDependencies": {
     "gh-pages": "^6.1.0"
   },
   "name": "vy6j3f",
-  "description": null,
+  "description": "null",
   "version": "0.0.0",
   "scripts": {
     "start": "react-scripts start",
